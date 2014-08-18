@@ -1,0 +1,66 @@
+=head2 Sat Aug 16 12:00:41 2014: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/fleg/Desktop/modules/local-lib-2.000012/../lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.98>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Sat Aug 16 12:00:43 2014: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: /home/fleg/Desktop/modules/local-lib-2.000012/../lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000012>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 16 12:01:47 2014: C<Module> L<Filesys::DiskUsage|Filesys::DiskUsage>
+
+=over 4
+
+=item *
+
+C<installed into: /home/fleg/Desktop/modules/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

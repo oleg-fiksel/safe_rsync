@@ -1,0 +1,6 @@
+source
+dest
+source_empty
+source_half_empty
+modules/*
+!modules/lib
